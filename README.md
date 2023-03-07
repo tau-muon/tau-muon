@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jalaluddin Mohammad
-- 👀 I’m interested in Mathematical Optimization, Simulation, SUpply Chain and Machine Learning.
+- 👀 I’m interested in Mathematical Optimization, Simulation, Supply Chain and Machine Learning.
 - 🌱 I’m currently learning Data Visualization.
-- 💞️ I’m looking to collaborate on a Data Visualozation Project.
+- 💞️ I’m looking to collaborate on a Data Visualization Project.
 - 📫 How to reach me : taumuon@protonmail.com
 
 <!---
